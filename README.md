@@ -26,7 +26,7 @@ focus:
   - Infrastructure as Code (Terraform)
   - Containerization (Docker / Kubernetes)
   - CI/CD Automation
-currently_learning: Advanced Kubernetes & AWS Advanced Networking
+currently_learning: Advanced Kubernetes & AWS professional
 open_to: Internships | Collaborations | Open Source
 ```
 
@@ -87,7 +87,7 @@ open_to: Internships | Collaborations | Open Source
 <div align="center">
 
 ### ☁️ Serverless Café Orders Platform — AWS + Terraform
-[![Serverless](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrhman418)
+[![Serverless](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrhman418/Serverless-Cafe-Orders-Platform)
 
 > Serverless backend using **AWS Lambda**, **API Gateway**, and **DynamoDB**.  
 > Infrastructure fully managed with **Terraform**. Frontend hosted on **S3**.  
@@ -108,7 +108,7 @@ open_to: Internships | Collaborations | Open Source
 ---
 
 ### 🐳 Three-Tier Docker Application
-[![Docker App](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrhman418)
+[![Docker App](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrhman418/Three-Tier-Docker-Application)
 
 > Multi-container app with **Web**, **App**, and **Database** tiers.  
 > Container networking, volume management, and orchestration with **Docker Compose**.
