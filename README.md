@@ -38,11 +38,11 @@ open_to: Internships | Collaborations | Open Source
 
 | Badge | Certification | Year |
 |:---:|---|:---:|
+| ![Huawei](https://img.shields.io/badge/Huawei-HCCDA_Technical_Essentials-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white) | Huawei HCCDA – Technical Essentials | 2025 |
 | ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | AWS Certified Cloud Practitioner | 2025 |
 | ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | AWS Certified Solutions Architect – Associate (SAA) | 2025 |
 | ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | AWS Certified AI Practitioner | 2026 |
 | ![AWS](https://img.shields.io/badge/AWS-CloudOps_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | AWS Certified CloudOps Engineer – Associate | 2026 |
-| ![Huawei](https://img.shields.io/badge/Huawei-HCCDA_Technical_Essentials-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white) | Huawei HCCDA – Technical Essentials | 2025 |
 
 </div>
 
@@ -114,6 +114,16 @@ open_to: Internships | Collaborations | Open Source
 > Container networking, volume management, and orchestration with **Docker Compose**.
 
 `Docker` `Docker Compose` `Networking` `Volumes` `Multi-tier`
+
+---
+
+### 🐍 AWS S3 Bucket Manager — Python + Boto3
+[![Boto3 S3 Manager](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrhman418/boto3-s3-manager)
+
+> A robust Python script to manage AWS S3 buckets using the **Boto3** library.  
+> Features advanced regional management, search/filtering by tags and ACLs, and automated bucket operations.
+
+`Python` `Boto3` `AWS S3` `Automation` `CloudOps`
 
 </div>
 
